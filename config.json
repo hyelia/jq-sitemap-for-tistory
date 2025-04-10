@@ -1,7 +1,7 @@
 {
   "blog_url": "https://jeeqong.tistory.com",
   "is_initialized": true,
-  "max_pages": 5,
+  "max_pages": 7,
   "output_file": "sitemap.xml",
   "selector": {
     "link_selector": ".title",
